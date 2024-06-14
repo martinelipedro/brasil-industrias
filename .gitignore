@@ -1,0 +1,4 @@
+objects/
+*.d
+*.o
+main

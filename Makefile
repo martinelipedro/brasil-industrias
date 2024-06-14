@@ -25,3 +25,5 @@ clean:
 	rm -rf $(OBJDIR)/*.o $(OBJDIR)/*.d
 
 .PHONY: all clean
+
+#mamaaki negrim
